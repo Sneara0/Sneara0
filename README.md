@@ -1,3 +1,3 @@
-Hey iam sneara
+Hey,iam sneara
 
 welcome to my github
