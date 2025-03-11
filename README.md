@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sneara Parvin
+
 
 ## A passionate Frontend Developer from Bangladesh
 
