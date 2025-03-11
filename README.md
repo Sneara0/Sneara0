@@ -1,6 +1,4 @@
-
-    
-  # Hi 👋, I'm Sneara Parvin
+# Hi 👋, I'm Sneara Parvin
 
 ## A passionate Frontend Developer from Bangladesh
 
@@ -10,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** with skills in React, HTML, TailwindCSS, Express, Python, Django, MySQL, and SQL. I enjoy building dynamic, responsive, and user-friendly websites and applications. Always learning, I am continuously enhancing my skills and staying up to date with the latest in web development.
+I'm a **Frontend Developer** with skills in React, HTML, TailwindCSS, Express, Python, Django, MySQL, SQL, and **Next.js**. I enjoy building dynamic, responsive, and user-friendly websites and applications. Always learning, I am continuously enhancing my skills and staying up to date with the latest in web development.
 
 🔭 Currently working on creating responsive, dynamic websites with **React** and **TailwindCSS**.
 
@@ -70,6 +68,9 @@ I work with a variety of technologies and tools:
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
     </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+    </a>
 </p>
 
 #### Database:
@@ -126,6 +127,9 @@ I work with a variety of technologies and tools:
 
 ```bash
 Frontend: React, HTML, TailwindCSS
-Backend: Express, Python, Django
+Backend: Express, Python, Django, Next.js
 Database: MySQL, SQL
 Tools: Git, GitHub, Figma, Illustrator
+
+
+
