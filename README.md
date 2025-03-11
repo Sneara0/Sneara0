@@ -56,9 +56,6 @@ I work with a variety of technologies and tools:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
-    </a>
 </p>
 
 #### Backend:
@@ -72,6 +69,9 @@ I work with a variety of technologies and tools:
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
     </a>
 </p>
 
@@ -128,29 +128,9 @@ I work with a variety of technologies and tools:
 #### Watch me "type" my skills:
 
 ```bash
-Frontend: React, HTML, TailwindCSS, JavaScript, 
-Backend: Express, Python, Django,Next.js
+Frontend: React, HTML, TailwindCSS, JavaScript
+Backend: Express, Python, Django, Next.js
 Database: MySQL, SQL
 Tools: Git, GitHub, Figma, Illustrator
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
