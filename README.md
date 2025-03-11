@@ -128,8 +128,8 @@ I work with a variety of technologies and tools:
 #### Watch me "type" my skills:
 
 ```bash
-Frontend: React, HTML, TailwindCSS, JavaScript, Next.js
-Backend: Express, Python, Django
+Frontend: React, HTML, TailwindCSS, JavaScript, 
+Backend: Express, Python, Django,Next.js
 Database: MySQL, SQL
 Tools: Git, GitHub, Figma, Illustrator
 
