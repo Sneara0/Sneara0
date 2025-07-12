@@ -5,6 +5,12 @@
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0A83A6&background=F5F5F5&vCenter=true&width=500&lines=Hi+I'm+Sneara+Parvin;A+Frontend+Developer+%40+Bangladesh;Let's+Build+Awesome+Web+Apps)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sneara0&label=Profile%20views&color=0e75b6&style=flat)
+![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/user-attachments/assets/e8ceb59f-ac3f-4a43-b995-e3617d48d2cd)
+
+
+
+
+
 
 ---
 
