@@ -16,9 +16,9 @@
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** with skills in React, HTML, TailwindCSS, JavaScript, Express, Python, Django, MySQL, SQL, and **Next.js**. I enjoy building dynamic, responsive, and user-friendly websites and applications. Always learning, I am continuously enhancing my skills and staying up to date with the latest in web development.
+Iam a passionate Frontend Developer with hands-on experience in building responsive and interactive web applications using React.js, JavaScript, and Tailwind CSS.
 
-🔭 Currently working on creating responsive, dynamic websites with **React** and **TailwindCSS**.
+Currently, I am expanding my skills into Backend Development — learning Node.js, Express.js, and MongoDB to become a Full Stack Developer. I love solving real-world problems through code and enjoy continuously learning and building meaningful projects.
 
 ---
 
