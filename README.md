@@ -20,6 +20,9 @@ Iam a passionate Frontend Developer with hands-on experience in building respons
 
 Currently, I am expanding my skills into Backend Development — learning Node.js, Express.js, and MongoDB to become a Full Stack Developer. I love solving real-world problems through code and enjoy continuously learning and building meaningful projects.
 
+
+portfolio:https://portfolio-q-plum.vercel.app/
+
 ---
 
 ### 📧 Reach out to me
@@ -138,5 +141,4 @@ Frontend: React, HTML, TailwindCSS, JavaScript
 Backend: Express, Python, Django, Next.js
 Database: MySQL, SQL
 Tools: Git, GitHub, Figma, Illustrator
-
 
