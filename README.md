@@ -94,6 +94,7 @@ I work with a variety of technologies and tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
 </p>
+mongodb
 
 #### Other Tools:
 
