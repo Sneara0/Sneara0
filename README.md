@@ -4,7 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sneara0&label=Profile%20views&color=0e75b6&style=flat)
 
-![Sneara Parvin](https://github.com/user-attachments/assets/e8ceb59f-ac3f-4a43-b995-e3617d48d2cd)
+<!-- Profile Picture -->
+![Sneara Parvin](./assets/sneara.jfif)
 
 ---
 
