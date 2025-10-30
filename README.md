@@ -112,5 +112,5 @@ Backend  : Node.js, Express, Django, Next.js
 Database : MongoDB, MySQL, PostgreSQL
 Tools    : Git, GitHub, Figma, Illustrator, VS Code
 "C:\Users\USER\Desktop\sneara..jfif"
-profile vies er niche add koro
+
 
