@@ -1,4 +1,6 @@
-![Uploading Messenger_creation_7176616333587383744.jpeg…]()
+
+![IMG-20251121-WA0000](https://github.com/user-attachments/assets/a9f83013-5b38-4144-80af-6f945a45df1c)
+
 
 ## A Passionate Frontend Developer from Bangladesh 🇧🇩
 
@@ -113,5 +115,4 @@ Frontend : React, JavaScript, TypeScript, TailwindCSS, HTML, CSS
 Backend  : Node.js, Express, Django, Next.js
 Database : MongoDB, MySQL, PostgreSQL
 Tools    : Git, GitHub, Figma, Illustrator, VS Code
-"C:\Users\USER\Desktop\sneara..jfif"
-
+"C:\Users\USER\Desktop\sneara..jfi-
