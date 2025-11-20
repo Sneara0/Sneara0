@@ -1,5 +1,4 @@
 
-![IMG-20251121-WA0000](https://github.com/user-attachments/assets/a9f83013-5b38-4144-80af-6f945a45df1c)
 
 
 ## A Passionate Frontend Developer from Bangladesh 🇧🇩
