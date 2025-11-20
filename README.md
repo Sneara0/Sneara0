@@ -1,4 +1,4 @@
-![Uploading FB_IMG_3724089962916523425.jpg…]()
+
 
 
 
@@ -115,4 +115,4 @@ Frontend : React, JavaScript, TypeScript, TailwindCSS, HTML, CSS
 Backend  : Node.js, Express, Django, Next.js
 Database : MongoDB, MySQL, PostgreSQL
 Tools    : Git, GitHub, Figma, Illustrator, VS Code
-"C:\Users\USER\Desktop\sneara..jfi-
+"C:\Users\USER\Desktop\sneara..jfi-![IMG-20250727-WA0001](https://github.com/user-attachments/assets/c73f7237-3d57-476e-a08e-40f6da03d6c4)
