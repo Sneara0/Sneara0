@@ -107,7 +107,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
-![FB_IMG_1760708759046](https://github.com/user-attachments/assets/fc47166b-1be0-492e-a720-218261967a3a)
+
 
 
 ---
