@@ -10,21 +10,21 @@
 
 ---
 
-## 🎉 Animated Badges (Auto Dark/Light)
+## 🎉 Animated Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend_Developer-💻-brightgreen?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/Love_Coding-❤️-red?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/Currently_Learning-Node.js-blue?style=for-the-badge&logoColor=white&labelColor=2F3136" />
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-💼-success?style=for-the-badge&logoColor=white&labelColor=2F3136" />
+  <img src="https://img.shields.io/badge/Frontend_Developer-💻-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Love_Coding-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Node.js-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-💼-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌗 Dark / Light Mode Toggle Preview
+## 🌗 Dark / Light Mode Toggle
 
 <p align="center">
   <img src="https://github.com/kshitij978/github-readme-dark-light-mode/raw/master/assets/dark-light-mode.gif" width="600" />
@@ -42,12 +42,12 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ---
 
-### 🌐 Connect with Me (Hover Effects)
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sneara-parvin-aa0a4b285/" title="LinkedIn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://www.facebook.com/sneyara.parabhina" title="Facebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="mailto:snearaparvin.cse@gmail.com" title="Gmail" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://www.linkedin.com/in/sneara-parvin-aa0a4b285/" title="LinkedIn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" style="transition: 0.3s;" /></a>
+  <a href="https://www.facebook.com/sneyara.parabhina" title="Facebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" style="transition: 0.3s;" /></a>
+  <a href="mailto:snearaparvin.cse@gmail.com" title="Gmail" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" style="transition: 0.3s;" /></a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ---
 
-## 💼 Featured Projects (Hover Card Effect)
+## 💼 Featured Projects
 
 <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
 
@@ -110,7 +110,7 @@ Coming Soon (Full-Stack MERN)
 
 ---
 
-## 📊 GitHub Stats (Collapsible)
+## 📊 GitHub Stats
 
 <details>
 <summary>Click to Expand 📈</summary>
@@ -138,16 +138,3 @@ Frontend : ⚛️ React, JavaScript, TypeScript, TailwindCSS, HTML, CSS
 Backend  : Node.js, Express, Django, Next.js
 Database : MongoDB, MySQL, PostgreSQL
 Tools    : Git, GitHub, Figma, Illustrator, VS Code
-
-
-
----
-
-### ✨ Skills Summary
-
-```bash
-Frontend : React, JavaScript, TypeScript, TailwindCSS, HTML, CSS
-Backend  : Node.js, Express, Django, Next.js
-Database : MongoDB, MySQL, PostgreSQL
-Tools    : Git, GitHub, Figma, Illustrator, VS Code
-"C:\Users\USER\Desktop\sneara..jfi-![IMG-20250727-WA0001](https://github.com/user-attachments/assets/c73f7237-3d57-476e-a08e-40f6da03d6c4c
