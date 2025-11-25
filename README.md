@@ -82,7 +82,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ## 💼 Featured Projects
 
-- ✈️ Flight Booking → https://responsive-flight-agency-website.vercel.app/  
+
 - 💻 Portfolio → https://portfolio-q-plum.vercel.app/  
 - 📚 JobHunt Pro → Coming Soon (Full-Stack MERN)
 
@@ -101,6 +101,9 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneara0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneara0&layout=compact&langs_count=6&theme=radical&hide_border=true)
