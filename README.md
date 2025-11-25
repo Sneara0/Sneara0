@@ -103,6 +103,10 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 </p>
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneara0&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
+
+
 ## ✨ Skills Summary
 
 ```bash
