@@ -82,7 +82,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ## 💼 Featured Projects
 
-- ✈️ Flight Booking → https://responsive-flight-agency-website.vercel.app/  
+
 - 💻 Portfolio → https://portfolio-q-plum.vercel.app/  
 - 📚 JobHunt Pro → Coming Soon (Full-Stack MERN)
 
