@@ -95,18 +95,13 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sneara0&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## ✨ Skills Summary
 
