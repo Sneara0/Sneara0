@@ -90,31 +90,19 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ## 📊 GitHub Stats
 
-<!-- Main Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sneara0&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneara0&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
 </p>
 
-<!-- Top Languages (100% Working Mirror) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorgs-projects.fox2081.vercel.app/api/top-langs/?username=Sneara0&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneara0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) show kore na github e
 
 ## ✨ Skills Summary
 
