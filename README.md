@@ -1,4 +1,4 @@
-## A Passionate Frontend Developer from Bangladesh 🇧🇩
+## A Passionate Full stack Developer from Bangladesh 🇧🇩
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0A83A6&vCenter=true&width=600&lines=Hi+I'm+Sneara+Parvin;A+Frontend+Developer+from+Bangladesh;Let's+Build+Awesome+Web+Apps)
 
