@@ -35,7 +35,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 🌱 Currently learning **Node.js, Express.js, MongoDB** to become a **Full Stack Developer**  
 ⚡ I love beautiful UI, clean code & coffee ☕  
-🎯 Portfolio → https://portfolio-q-plum.vercel.app/
+🎯 Portfolio → [https://portfolio-q-plum.vercel.app/](https://personal-information-pi.vercel.app/)
 
 ---
 
