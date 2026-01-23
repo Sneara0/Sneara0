@@ -2,7 +2,8 @@
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0A83A6&vCenter=true&width=600&lines=Hi+I'm+Sneara+Parvin;A+Frontend+Developer+from+Bangladesh;Let's+Build+Awesome+Web+Apps)
 
-![Profile Views]https://personal-information-pi.vercel.app/
+[![Profile Views](https://komarev.com/ghpvc/?username=Sneara0&label=Profile%20Views&color=0A83A6&style=for-the-badge)](https://personal-information-pi.vercel.app/)
+
 
 ![Sneara Parvin](https://github.com/user-attachments/assets/e8ceb59f-ac3f-4a43-b995-e3617d48d2cd)
 
@@ -83,8 +84,7 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 ## 💼 Featured Projects
 
 
-- 💻 Portfolio → https://portfolio-q-plum.vercel.app/  
-- 📚 JobHunt Pro → Coming Soon (Full-Stack MERN)
+- 📚 JobHunt Pro →  (Full-Stack MERN)
 
 ---
 
