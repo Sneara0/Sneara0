@@ -49,12 +49,18 @@ I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus 
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Projects Showcase
 
-*   🚀 **[EventSphere](https://eventspehere-frontend.vercel.app/)** - A full-stack event platform with ticketing logic and coupon validation.
-*   🏥 **[MediStore](https://github.com/Sneara0/Medistore-Frontend)** - A multi-role pharmacy management system focusing on backend logic and role-based access control.
-*   🩺 **[PH Healthcare](https://github.com/Sneara0/ph_healthcare)** - A dedicated backend architecture for healthcare management systems.
+### 🚀 Featured Projects
 
+| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
+| :--- | :--- | :--- | :--- |
+| **Sneara's Portfolio** | A modern, responsive personal portfolio showcasing developer skills and projects. | `React` • `Tailwind` | [🌐 Visit](https://portfolio-q-plum.vercel.app/) |
+| **EventSphere** | A full-stack event platform with ticketing logic and coupon validation. | `Next.js` • `Prisma` | [🌐 Visit](https://eventspehere-frontend.vercel.app/) |
+| **MediStore** | A multi-role pharmacy management system focusing on backend logic. | `React` • `Node.js` | [🌐 Visit](https://github.com/Sneara0/Medistore-Frontend) |
+| **PH Healthcare** | A dedicated healthcare management system with complex backend architecture. | `Node.js` • `Express` | [🌐 Visit](https://github.com/Sneara0/ph_healthcare) |
+
+---
 ---
 
 ### 🌐 Connect with Me
