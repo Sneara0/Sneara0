@@ -20,14 +20,45 @@
 
 ---
 
-### 🚀 About Me
+---
 
-I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus on **Backend Engineering**. While I build modern, responsive UIs, I am most comfortable architecting robust server-side logic and managing complex databases.
+## 📊 About Me
 
-*   **Core Comfort**: Designing scalable APIs and secure database schemas using **Prisma** and **PostgreSQL**.
-*   **Recent Focus**: Implementing advanced authentication (Clerk/Better-Auth) and payment systems (Stripe).
-*   **Current Goal**: Building high-performance SaaS platforms and event management systems.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <pre align="left">
+name:             Sneara Parvin
+location:         Dhaka, Bangladesh
+role:             Full-Stack Developer
+education:        Computer Science & Engineering
 
+interests:
+  - Backend System Architecture
+  - Scalable API Development
+  - Database Optimization (Prisma/PostgreSQL)
+  - Full-Stack SaaS Applications
+
+currently_learning:
+  - Advanced Backend Design Patterns
+  - Security Best Practices in Auth
+  - Cloud Infrastructure Basics
+
+2026_goals:
+  - Build and Scale EventSphere
+  - Master Distributed System Concepts
+  - Contribute to Meaningful Open Source Projects
+
+fun_fact:         "I love building logic that makes things work behind the scenes!"
+      </pre>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://github.com/kshitij978/github-readme-dark-light-mode/raw/master/assets/dark-light-mode.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 ### 🛠️ Technologies & Tools
