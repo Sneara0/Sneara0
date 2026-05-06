@@ -133,11 +133,6 @@ fun_fact:         "I love building logic that makes things work behind the scene
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneara0&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
