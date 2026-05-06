@@ -93,6 +93,27 @@ fun_fact:         "I love building logic that makes things work behind the scene
 
 ---
 ---
+## 📊 Live Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sneara0&label=PROFILE%20VIEWS&color=0A83A6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sneara0?label=FOLLOWERS&style=for-the-badge&color=2196f3" />
+  <img src="https://img.shields.io/github/stars/Sneara0?label=TOTAL%20STARS&style=for-the-badge&color=ffc107" />
+</p>
+
+<h3 align="center">💻 This Week's Coding Time</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneara0&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&vCenter=true&width=435&lines=█+PACMAN+IS+COLLECTING+COMMITS...;•+•+•+•+•+•+•+•+•+•+•+•" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sneara0&theme=radical" width="100%" />
+</p>
 
 ### 🌐 Connect with Me
 
