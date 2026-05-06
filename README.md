@@ -59,6 +59,10 @@ fun_fact:         "I love building logic that makes things work behind the scene
 </table>
 
 ---
+### 📊 Weekly Development Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sneara0&layout=compact&theme=radical&hide_border=true" width="100%" />
+</p>
 ---
 
 ### 🛠️ Technologies & Tools
