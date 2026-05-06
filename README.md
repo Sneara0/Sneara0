@@ -88,3 +88,28 @@ I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
+---
+
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+#### GitHub Contributions:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneara0&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
+
+#### GitHub Statistics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneara0&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+#### Repository Stats & Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
+</p>
+
+#### Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
