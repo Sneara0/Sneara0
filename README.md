@@ -85,6 +85,7 @@ I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneara0&theme=radical&hide_border=true" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
@@ -120,3 +121,10 @@ I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus 
 - **Completed Specialized Full-Stack Bootcamp:** Focusing on modern web architectures.
 - **EventSphere Project Milestone:** Successfully deployed a secure ticketing system with complex backend logic.
 - **MediStore Architect:** Developed a multi-role pharmaceutical system with robust authentication.
+---
+
+## 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sneara0&theme=radical&no-frame=true&row=1&column=6" />
+</p>
