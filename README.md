@@ -113,3 +113,10 @@ I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus 
 </p>
 
 ---
+---
+
+## 🏆 Achievements & Certifications
+
+- **Completed Specialized Full-Stack Bootcamp:** Focusing on modern web architectures.
+- **EventSphere Project Milestone:** Successfully deployed a secure ticketing system with complex backend logic.
+- **MediStore Architect:** Developed a multi-role pharmaceutical system with robust authentication.
