@@ -1,41 +1,59 @@
 ## A Passionate Full stack Developer from Bangladesh 🇧🇩
 
-![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0A83A6&vCenter=true&width=600&lines=Hi+I'm+Sneara+Parvin;A+Frontend+Developer+from+Bangladesh;Let's+Build+Awesome+Web+Apps)
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0A83A6&vCenter=true&width=600&lines=Hi+I'm+Sneara+Parvin;Full-Stack+Developer;Backend+Specialist;Building+Scalable+SaaS)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sneara0&label=Profile%20Views&color=0A83A6&style=for-the-badge)](https://personal-information-pi.vercel.app/)
-
 
 ![Sneara Parvin](https://github.com/user-attachments/assets/e8ceb59f-ac3f-4a43-b995-e3617d48d2cd)
 
 ---
 
-## 🎉 Animated Badges
+## 🎉 Professional Focus
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend_Developer-💻-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Love_Coding-❤️-red?style=for-the-badge" />
-</p>
-
----
-
-## 🌗 Dark / Light Mode Toggle
-
-<p align="center">
-  <img src="https://github.com/kshitij978/github-readme-dark-light-mode/raw/master/assets/dark-light-mode.gif" width="600" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-💻-0A83A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Specialist-⚙️-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on experience in building **responsive, modern, and interactive** web applications using **React.js, JavaScript, and Tailwind CSS**.
+I am a **Full-Stack Developer** based in Dhaka, Bangladesh, with a strong focus on **Backend Engineering**. While I build modern, responsive UIs, I am most comfortable architecting robust server-side logic and managing complex databases.
 
-🌱 Currently learning **Node.js, Express.js, MongoDB** to become a **Full Stack Developer**  
-⚡ I love beautiful UI, clean code & coffee ☕  
-🎯 Portfolio → [https://portfolio-q-plum.vercel.app/](https://personal-information-pi.vercel.app/)
+*   **Core Comfort**: Designing scalable APIs and secure database schemas using **Prisma** and **PostgreSQL**.
+*   **Recent Focus**: Implementing advanced authentication (Clerk/Better-Auth) and payment systems (Stripe).
+*   **Current Goal**: Building high-performance SaaS platforms and event management systems.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### ⚙️ Backend & Database (Primary Strength)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,prisma,postgres,mongodb,mysql" />
+</p>
+
+#### 🎨 Frontend & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
+</p>
+
+#### 🧰 Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+*   🚀 **[EventSphere](https://eventspehere-frontend.vercel.app/)** - A full-stack event platform with ticketing logic and coupon validation.
+*   🏥 **[MediStore](https://github.com/Sneara0/Medistore-Frontend)** - A multi-role pharmacy management system focusing on backend logic and role-based access control.
+*   🩺 **[PH Healthcare](https://github.com/Sneara0/ph_healthcare)** - A dedicated backend architecture for healthcare management systems.
 
 ---
 
@@ -57,37 +75,6 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 
 ---
 
-### 🛠️ Technologies
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" />
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,nextjs" />
-</p>
-
-#### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-#### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-
-- 📚 JobHunt Pro →  (Full-Stack MERN)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -101,15 +88,3 @@ I am a passionate **Frontend Developer** from Bangladesh 🇧🇩 with hands-on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneara0&show_icons=true&layout=compact&theme=radical&hide_border=true" />
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneara0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) 
-
-
-
-## ✨ Skills Summary
-
-```bash
-Frontend : React, JavaScript, TypeScript, TailwindCSS, HTML, CSS
-Backend  : Node.js, Express, Django, Next.js
-Database : MongoDB, MySQL, PostgreSQL
-Tools    : Git, GitHub, Figma, Illustrator, VS Code
