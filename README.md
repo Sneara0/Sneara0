@@ -90,7 +90,7 @@ fun_fact:         "I love building logic that makes things work behind the scene
 
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
 | :--- | :--- | :--- | :--- |
-| **Sneara's Portfolio** | A modern, responsive personal portfolio showcasing developer skills and projects. | `React` • `Tailwind` | [🌐 Visit](https://portfolio-q-plum.vercel.app/) |
+| **Sneara's Portfolio** | A modern, responsive personal portfolio showcasing developer skills and projects. | `React` • `Tailwind` | [🌐 Visit](https://personal-information-pi.vercel.app/) |
 | **EventSphere** | A full-stack event platform with ticketing logic and coupon validation. | `Next.js` • `Prisma` | [🌐 Visit](https://eventspehere-frontend.vercel.app/) |
 | **MediStore** | A multi-role pharmacy management system focusing on backend logic. | `React` • `Node.js` | [🌐 Visit](https://github.com/Sneara0/Medistore-Frontend) |
 | **PH Healthcare** | A dedicated healthcare management system with complex backend architecture. | `Node.js` • `Express` | [🌐 Visit](https://github.com/Sneara0/ph_healthcare) |
